@@ -135,9 +135,9 @@
                                         <div class="relative -mr-22 xl:-mr-44 mb-12 sm:mb-20 xl:flex xl:justify-between xl:items-center">
                                             <div>
                                                 <h1>
-                                                    <small class="text-xl font-medium leading-10 text-gray-900 dark:text-white">Learn the</small><br>
-                                                    <span class="mt-4 text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white">PHP Framework</span><br>
-                                                    <strong class="text-4xl sm:text-5xl font-bold text-red-600">for Web Artisans</strong>
+                                                    <small class="text-xl font-medium leading-10 text-gray-900 dark:text-white">Познайомтесь з</small><br>
+                                                    <span class="mt-4 text-4xl sm:text-4xl font-bold text-gray-900 dark:text-white">PHP фреймворком</span><br>
+                                                    <strong class="text-4xl sm:text-4xl font-bold text-red-600">для  веб-ремісників</strong>
                                                 </h1>
                                                 <div class="mt-6 xl:mt-8 relative xl:static">
                                                     <x-cube delay="0" class="h-8 sm:h-auto absolute xl:bottom-0 left-0 mt-8 sm:mt-14 xl:mt-0 -ml-4 sm:ml-4 xl:-ml-14" />
@@ -152,15 +152,15 @@
                                                             <div class="flex-1">
                                                                 <div class="flex justify-between">
                                                                     <div>
-                                                                        <span class="text-sm font-medium sm:text-sm text-gray-800 dark:text-gray-200">Taylor Otwell</span>
+                                                                        <span class="text-sm font-medium sm:text-sm text-gray-800 dark:text-gray-200">Тейлор Отвелл</span>
                                                                         <br class="sm:hidden">
-                                                                        <small class="sm:ml-2 text-xs sm:text-sm text-gray-600 dark:text-gray-500">a few seconds ago</small>
+                                                                        <small class="sm:ml-2 text-xs sm:text-sm text-gray-600 dark:text-gray-500">щойно</small>
                                                                     </div>
                                                                     <svg xmlns="http://www.w3.org/2000/svg" class="mt-1 ml-4 h-4 w-4 text-gray-400 dark:text-gray-600" viewBox="0 0 20 20" fill="currentColor">
                                                                         <path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z" />
                                                                     </svg>
                                                                 </div>
-                                                                <p class="mt-2 sm:mt-4 mr-1 sm:mr-0 text-sm sm:text-md text-gray-900 dark:text-gray-100">Let's build something with Laravel!</p>
+                                                                <p class="mt-2 sm:mt-4 mr-1 sm:mr-0 text-sm sm:text-md text-gray-900 dark:text-gray-100">Даайте створимо щось із Laravel!</p>
                                                             </div>
                                                         </div>
                                                     </div>
